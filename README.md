@@ -11,18 +11,6 @@ Currently, two official plugins are available:
 
 This repository contains the assignment project for Dacoid Digital.
 
-## Project Overview
-
-[Provide a brief description of the project's purpose and functionality.]
-
-## Features
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Installation
-
 To set up the project locally:
 
 1. Clone the repository:
