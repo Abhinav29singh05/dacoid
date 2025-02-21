@@ -31,8 +31,6 @@ To set up the project locally:
    cd dacoid
 
 
-2.Install dependencies
-       npm install
+2.Install dependencies  ->npm install
 
-3. Start the development server:
-      npm run dev
+3. Start the development server-> npm run dev
