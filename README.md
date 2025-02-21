@@ -30,9 +30,9 @@ To set up the project locally:
    git clone https://github.com/Abhinav29singh05/dacoid.git
    cd dacoid
 
-   Install dependencies:
 
 2.Install dependencies
-     npm install
+       npm install
+
 3. Start the development server:
-    npm run dev
+      npm run dev
